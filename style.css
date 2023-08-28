@@ -22,3 +22,17 @@ h1 {
     top: 190px;
     left: 190px;
 }
+#tc {
+    position: absolute;
+    text-align: center;
+    bottom: 6%;
+    left: 43%;
+    font-size: 30px;
+    font-weight: 400;    
+}
+#back {
+    position: absolute;
+    text-align: center;
+    bottom: 3%;
+    left: 45%;
+}
